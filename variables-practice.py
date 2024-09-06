@@ -39,10 +39,13 @@ print (my_age)
 
 # Part 3 / Working with the print ( ) Function
 # Create three different variables, one for each piece of data described below
+first_name = 'Cohen'
+city = 'Elk Rapids'
+age = '16'
 # Remember to follow the rules for naming Python variables
 # Use the print function to print your first name on your screen
 # Use the print function to print the name of the city you live in on your screen
 # Use the print function to print your age on your computer screen
-print (Cohen)
-print (Elk Rapids)
-Print (my_age)
+print (first_name)
+print (city)
+print (age)
