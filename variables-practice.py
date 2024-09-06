@@ -20,7 +20,7 @@
 # Use the print function to print the value of one of three variables you created in Part 1
 school = 'Career Tech'
 favorite_singer = 'Zach Bryan'
-greeting = 'Welcome'
+greeting = 'Yo'
 print (greeting)
 
 
