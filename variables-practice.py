@@ -1,4 +1,4 @@
-# Student name
+# Cohen Reinhardt
 # 04 SEP 2024
 # Variables Practice
 
